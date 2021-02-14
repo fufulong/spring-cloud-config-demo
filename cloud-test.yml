@@ -1,0 +1,3 @@
+config:
+  profile: test
+  versiion: spring-cloud-config version 1
